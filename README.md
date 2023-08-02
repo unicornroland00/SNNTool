@@ -5,7 +5,7 @@ SNNtool is an efficient utility designed for researchers and developers, providi
 This toolkit runs on MATLAB R2020a or newer in Microsoft Windows.
 To install and use this tool, it is just required to add the project folders to MATLAB's works folder. 
 
-# How to use SNNtool v1.2
+# How to use SNNtool
 The SNNTool source code is written entirely in Matlab. And the main code can be divided into five element: Plamt & Data, initialization, training process, error analysis, and draw & picture. In addition subsidiary data generation, weights initialization, Ci calculation, forward calculation and iterative training program files and some standard dataset folders. 
 
 there are two entry main files：
