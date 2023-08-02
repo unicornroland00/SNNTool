@@ -25,8 +25,8 @@ Website: https://github.com/unicornroland00/SNNTool (Recommended options).
 Or send an email to GangCai@gnnu.edu.cn (Gang Cai) to report issues and bugs. 
 Any bug reports, code contributions, suggestions, feedback and insights are immensely appreciated and will support this project.
 
-# Copyright 2023 Gang Cai and Lingyan Wu
-
+# Copyright 
+Copyright 2023 Gang Cai and Lingyan Wu
     Licensed under the Apache License, Version 2.0 (the "License");
     you may not use this file except in compliance with the License.
     You may obtain a copy of the License at
