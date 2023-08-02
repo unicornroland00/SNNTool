@@ -9,7 +9,9 @@ To install and use this tool, it is just required to add the project folders to 
 The SNNTool source code is written entirely in Matlab. And the main code can be divided into five element: Plamt & Data, initialization, training process, error analysis, and draw & picture. In addition subsidiary data generation, weights initialization, Ci calculation, forward calculation and iterative training program files and some standard dataset folders. 
 
 there are two entry main files：
+
 (1)SNNs_Main.m needs to prepare the training dataset and test dataset in advance.
+
 (2)SNNs_Rd _Main.m don't needed prepare training dataset, the Sinc library function used in the  file as example, if you need to change the fitting object, you can according to the corresponding application to rewrite the study object or data interface in the program.
 
 # Notes 
@@ -27,6 +29,7 @@ Any bug reports, code contributions, suggestions, feedback and insights are imme
 
 # Copyright 
 Copyright 2023 Gang Cai and Lingyan Wu
+
     Licensed under the Apache License, Version 2.0 (the "License");
     you may not use this file except in compliance with the License.
     You may obtain a copy of the License at
