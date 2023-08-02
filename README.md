@@ -45,6 +45,7 @@ Copyright 2023 Gang Cai and Lingyan Wu
    This code was implemented based on the following paper:
 
 [1] G. Cai, L.Y. Wu, Sampling Neural Network: A Novel Neural Network Based on Sampling %Theorem, 2021 6th International Symposium on Computer and Information Processing %Technology (ISCIPT), (2021) 717-720. http://dx.doi.org/10.1109/ISCIPT53667.2021.00151.
+
 [2] G. Cai, L.Y. Wu, Cycle sampling neural network algorithms and applications, The Journal %of Supercomputing, (2023). http://dx.doi.org/10.1007/s11227-022-05019-9.
 
    Please cite paper [2] by those who have referenced the code. Thanks！
